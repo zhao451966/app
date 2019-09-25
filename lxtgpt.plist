@@ -36,6 +36,8 @@
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
+               <key>platform-identifier</key>
+               <string>com.apple.platform.iphoneos</string>
                <key>subtitle</key>
                <string>Apple</string>
                <key>title</key>
